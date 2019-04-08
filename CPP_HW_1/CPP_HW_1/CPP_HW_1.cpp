@@ -13,7 +13,6 @@ int main()
 	Phone a2("Samsung", "Galaxy S10", 890, 374240625);
 	// Instance with the help of default constructor
 	Phone a3;
-	
 	// Class method to print information about instance
 	a1.Print();
 	a2.Print();
