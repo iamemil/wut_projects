@@ -1,0 +1,12 @@
+﻿  CPP_HW_1.cpp
+  Phone.cpp
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\emil ismayilzada\documents\wut\cpp_hw_1\cpp_hw_1\phone.cpp(97): warning C4715: 'Phone::operator=': not all control paths return a value
+  CPP_HW_1.vcxproj -> C:\Users\Emil Ismayilzada\Documents\WUT\CPP_HW_1\Debug\CPP_HW_1.exe
